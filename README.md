@@ -1,6 +1,6 @@
 # lemin
 
-This programm is given a textfile that represent a anthill (a set of rooms, linked to each other with tunnels and a number of ant).
+This program is given a textfile that represent a anthill (a set of rooms, linked to each other with tunnels and a number of ant).
 
 In every valid anthill, there is a Start room,a End room, and at least a set of tunnel that link Start to End.
 
